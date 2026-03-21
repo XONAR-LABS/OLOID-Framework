@@ -3,6 +3,16 @@
 [English](./README.md) | [中文](./README.zh-CN.md)
 
 # OLOID Framework
+<table>
+  <tr>
+    <td width="25%" align="center"><img src="./assets/covers/量产_外饰_越野.webp" width="100%"></td>
+    <td width="25%" align="center"><img src="./assets/covers/创意_内饰_概念2.webp" width="100%"></td>
+    <td width="25%" align="center"><img src="./assets/covers/灵感_灵感启发01.webp" width="100%"></td>
+    <td width="25%" align="center"><img src="./assets/covers/视觉_画风_厚涂.webp" width="100%"></td>
+  </tr>
+</table>
+
+
 
 ## 关于 OLOID
 OLOID Framework 是一套面向汽车设计生成的开源 LoRA 框架。
